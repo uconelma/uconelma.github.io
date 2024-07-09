@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uconelma.github.io/sitemap
+Sitemap: https://uconelma.github.io/app/sitemap
+Sitemap: https://uconelma.github.io/assets/sitemap
+Sitemap: https://uconelma.github.io/css/sitemap
+Sitemap: https://uconelma.github.io/includes/sitemap
+Sitemap: https://uconelma.github.io/item/sitemap
+Sitemap: https://uconelma.github.io/src/sitemap
